@@ -451,8 +451,10 @@ align-items: baseline;
   width: 264px;
     height: 40px;
     border-radius: 4px;
+    
       border: 1px solid  #FFF;
     padding-left: 16px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
     padding-top: 8px;
 padding-bottom: 8px;
 background-color: transparent;
@@ -460,7 +462,6 @@ margin-right: 24px;
 font-size: 12px;
 line-height: 1.5;
 letter-spacing: 0.04em;
-filter: drop-shadow (0px 4px 4px rgba(0, 0, 0, 0.15));
 color: #ffffff;
 }
 
@@ -664,8 +665,11 @@ resize: none;
 .policy-link {
   color: #4D5AE5;
 }
+.contact-form-textarea-wrapper {
+margin-bottom: 16px;
+}
 .contact-form-checkbox-wrapper {
-margin-bottom: 24px;
+  margin-bottom: 24px;
 }
 
 .contact-form-checkbox:checked 
