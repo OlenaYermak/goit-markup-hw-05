@@ -284,7 +284,6 @@ background: #404BBF;
 }
 .team-list-title {
   text-align: center;
-  margin-bottom: 8px;
 }
 .team-list-text {
   text-align: center;
@@ -457,7 +456,7 @@ align-items: baseline;
     padding-top: 8px;
 padding-bottom: 8px;
 background-color: transparent;
-margin-right: 24px;
+
 font-size: 12px;
 line-height: 1.5;
 letter-spacing: 0.04em;
